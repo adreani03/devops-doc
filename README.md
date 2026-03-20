@@ -33,11 +33,8 @@ Documentación de referencia rápida y configuraciones específicas:
 | Herramienta | Uso Principal |
 | :--- | :--- |
 | **Python 3.13** | Lenguaje de programación principal |
-| **Poetry** | Gestión de dependencias y empaquetado |
 | **Docker** | Contenerización y entornos reproducibles |
 | **GitHub Actions** | CI/CD y automatización de procesos |
-| **Ruff** | Linting y formateo de código ultra rápido |
-| **Pytest** | Pruebas unitarias y de integración |
 | **Semantic Release** | Versionamiento automático basado en commits |
 
 ---
